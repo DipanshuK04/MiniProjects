@@ -11,25 +11,21 @@ This repository contains a clone of the Amazon user interface, implemented using
 
 ## Screenshots
 
-![Amazon UI Clone](path/to/screenshot.png)  
+![Amazon UI Clone](Amzn_Cln_home1.jpeg)  
+![Amazon UI Clone](Amzn_Cln_home2.jpeg)  
 
 ## How to View
 
-To view the project locally, follow these steps:
-
-1. **Clone the Repository:**
-   git clone https://github.com/YourUsername/Amazon-UI-Clone.git
-
-##  Navigate to the Project Directory:
-
-Copy code
-cd Amazon-UI-Clone
-Open the index.html file in your web browser:
-
-Copy code
-open index.html
+To view the project locally:
 <br>
-Technologies Used
+**Clone the Repository:** 
+<br>
+**Open index.html**
+<br>
+**Clone Page loaded succesfully!** 
+<br>
+<br>
+## Technologies Used
 <br>
 HTML: For the structure and markup of the webpage.
 <br>
