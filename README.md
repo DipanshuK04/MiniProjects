@@ -1,6 +1,6 @@
 # MiniProjects
 
-# Web Development & Deep Reinforcement Learning (DRL) Projects
+# Web Development , Electronics  & RL Projects
 
 This repository contains a collection of projects that combine **Web Development** and **Deep Reinforcement Learning (DRL)**. The projects are built using a variety of technologies including HTML, CSS, JavaScript, React, and reinforcement learning algorithms. Each project is designed to showcase the application of these technologies in real-world scenarios.
 
