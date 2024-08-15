@@ -2,7 +2,13 @@
 This project is a Currency Converter web application built using HTML, CSS, and JavaScript. The application fetches real-time exchange rates through an API and updates the displayed conversion accordingly. Additionally, the flags of the selected countries dynamically change based on the user's input.
 
 ## SccreenShots
-![Currency Converter Screenshot]()
+<p align="center">
+  <img src="CurrencyConverter_1.jpeg" alt="Currency Converter Screenshot">
+</p>
+<p align="center">
+  <img src="CurrencyConverter_2.jpeg" alt="Currency Converter Screenshot">
+</p>
+
 ## Features
 Currency Conversion: Fetches the latest exchange rates using an API and displays the conversion instantly.
 Dynamic Flag Display: Changes the flags corresponding to the selected currencies, enhancing the user experience.
