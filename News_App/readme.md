@@ -3,6 +3,8 @@
 newsMonkey is a dynamic NewsApp built using React, designed to deliver the latest news in real-time. By integrating a real-time API, this app ensures users are always up-to-date with current events across various categories, including technology, sports, entertainment, and more.
 
 ## GIF
+![NewsMonkey GIF](newsapp_vid.gif)
+
 
 ## USAGE
 
